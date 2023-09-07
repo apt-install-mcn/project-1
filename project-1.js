@@ -17,5 +17,5 @@ function imprimirContactos() {
             console.log(contacto)
         }
 }
-
+ 
 imprimirContactos();
